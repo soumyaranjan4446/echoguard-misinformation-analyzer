@@ -2,10 +2,9 @@
 
 EchoGuard is a full-stack application designed to analyze text claims for potential misinformation. It combines a fine-tuned NLP classification model, historical similarity search using a vector database, and real-time web verification via the Gemini API to provide a comprehensive assessment.
 
-![App Demo GIF](assets/app_demo.gif)
-*(Placeholder: Replace this line with the actual path if your GIF is named differently)*
 
----
+<img src="https://github.com/soumyaranjan4446/echoguard-misinformation-analyzer/blob/main/demoapp.gif"  />
+
 
 ## Table of Contents
 
