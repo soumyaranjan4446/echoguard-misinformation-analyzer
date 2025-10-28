@@ -1,0 +1,21 @@
+# --- API Server ---
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+
+# --- ML & Data (Core) ---
+
+transformers
+scikit-learn
+pandas
+
+# --- Vector DB ---
+chromadb
+
+# --- NLP Utilities (This is the missing one) ---
+sentence-transformers
+scipy
+
+httpx
+asyncio
