@@ -6,7 +6,10 @@ This document provides a deeper dive into the technical design and components of
 
 EchoGuard employs a decoupled architecture consisting of a frontend user interface, a backend API responsible for processing and analysis, and a vector database for historical context.
 
-(![Logo](Architecture image.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumyaranjan4446/echoguard-misinformation-analyzer/main/Architecture%20image.png" width="600">
+</p>
+
 
 ## 2. Backend (FastAPI)
 
